@@ -1,0 +1,76 @@
+customer_code,customer_name,platform,channel,market,sub_zone
+C001,Store_1,Brick & Mortar,Direct,India,Tamil Nadu
+C002,Store_2,E-Commerce,Distributor,USA,Florida
+C003,Store_3,E-Commerce,Retailer,South Korea,International
+C004,Store_4,E-Commerce,Direct,India,Tamil Nadu
+C005,Reliance_5,E-Commerce,Direct,South Korea,International
+C006,Store_6,Brick & Mortar,Distributor,Japan,International
+C007,Store_7,Brick & Mortar,Distributor,Australia,International
+C008,Store_8,E-Commerce,Direct,South Korea,International
+C009,Store_9,Brick & Mortar,Retailer,Australia,International
+C010,Reliance_10,Brick & Mortar,Direct,India,Delhi
+C011,Store_11,Brick & Mortar,Distributor,South Korea,International
+C012,Store_12,Brick & Mortar,Direct,Japan,International
+C013,Store_13,Brick & Mortar,Distributor,Australia,International
+C014,Store_14,E-Commerce,Distributor,Japan,International
+C015,Reliance_15,Brick & Mortar,Retailer,Japan,International
+C016,Store_16,Brick & Mortar,Distributor,USA,Florida
+C017,Store_17,Brick & Mortar,Retailer,Japan,International
+C018,Store_18,Brick & Mortar,Direct,USA,Texas
+C019,Store_19,Brick & Mortar,Direct,USA,Texas
+C020,Reliance_20,E-Commerce,Retailer,India,Delhi
+C021,Store_21,E-Commerce,Direct,USA,California
+C022,Store_22,Brick & Mortar,Retailer,Japan,International
+C023,Store_23,Brick & Mortar,Retailer,Australia,International
+C024,Store_24,Brick & Mortar,Distributor,India,Tamil Nadu
+C025,Reliance_25,E-Commerce,Direct,Japan,International
+C026,Store_26,E-Commerce,Distributor,India,Rajasthan
+C027,Store_27,E-Commerce,Direct,India,Rajasthan
+C028,Store_28,E-Commerce,Distributor,Japan,International
+C029,Store_29,Brick & Mortar,Retailer,India,Tamil Nadu
+C030,Reliance_30,E-Commerce,Direct,USA,Florida
+C031,Store_31,Brick & Mortar,Retailer,USA,New York
+C032,Store_32,Brick & Mortar,Retailer,India,Delhi
+C033,Store_33,E-Commerce,Distributor,South Korea,International
+C034,Store_34,Brick & Mortar,Retailer,Australia,International
+C035,Reliance_35,Brick & Mortar,Distributor,Japan,International
+C036,Store_36,Brick & Mortar,Direct,South Korea,International
+C037,Store_37,Brick & Mortar,Direct,Australia,International
+C038,Store_38,E-Commerce,Retailer,South Korea,International
+C039,Store_39,Brick & Mortar,Retailer,Japan,International
+C040,Reliance_40,E-Commerce,Retailer,South Korea,International
+C041,Store_41,E-Commerce,Distributor,Australia,International
+C042,Store_42,Brick & Mortar,Direct,India,Rajasthan
+C043,Store_43,E-Commerce,Retailer,South Korea,International
+C044,Store_44,E-Commerce,Retailer,Australia,International
+C045,Reliance_45,E-Commerce,Retailer,South Korea,International
+C046,Store_46,Brick & Mortar,Distributor,India,Uttar Pradesh
+C047,Store_47,E-Commerce,Retailer,Australia,International
+C048,Store_48,Brick & Mortar,Retailer,Japan,International
+C049,Store_49,E-Commerce,Distributor,South Korea,International
+C050,Reliance_50,Brick & Mortar,Direct,India,Rajasthan
+C051,Store_51,Brick & Mortar,Direct,India,Karnataka
+C052,Store_52,E-Commerce,Direct,USA,Texas
+C053,Store_53,Brick & Mortar,Direct,USA,Florida
+C054,Store_54,Brick & Mortar,Direct,USA,Texas
+C055,Reliance_55,Brick & Mortar,Retailer,USA,New York
+C056,Store_56,E-Commerce,Distributor,India,Tamil Nadu
+C057,Store_57,E-Commerce,Distributor,South Korea,International
+C058,Store_58,E-Commerce,Retailer,USA,Texas
+C059,Store_59,E-Commerce,Direct,South Korea,International
+C060,Reliance_60,Brick & Mortar,Retailer,India,Delhi
+C061,Store_61,Brick & Mortar,Distributor,Japan,International
+C062,Store_62,E-Commerce,Direct,Japan,International
+C063,Store_63,Brick & Mortar,Direct,Australia,International
+C064,Store_64,E-Commerce,Direct,South Korea,International
+C065,Reliance_65,Brick & Mortar,Direct,USA,New York
+C066,Store_66,E-Commerce,Retailer,Australia,International
+C067,Store_67,Brick & Mortar,Retailer,India,Rajasthan
+C068,Store_68,E-Commerce,Retailer,Japan,International
+C069,Store_69,E-Commerce,Distributor,Japan,International
+C070,Reliance_70,Brick & Mortar,Retailer,Australia,International
+C071,Store_71,E-Commerce,Direct,USA,Florida
+C072,Store_72,Brick & Mortar,Distributor,Australia,International
+C073,Store_73,E-Commerce,Direct,Australia,International
+C074,Store_74,E-Commerce,Retailer,USA,California
+C075,Reliance_75,Brick & Mortar,Retailer,India,Delhi

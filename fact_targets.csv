@@ -1,0 +1,241 @@
+fiscal_year,month,month_name,department,target_revenue
+FY 2020,1,January,Finance,9740363
+FY 2020,1,January,Sales,8261523
+FY 2020,1,January,Marketing,6295434
+FY 2020,1,January,Supply Chain,5623739
+FY 2020,1,January,Operations,8576065
+FY 2020,2,February,Finance,8442134
+FY 2020,2,February,Sales,6609074
+FY 2020,2,February,Marketing,9683031
+FY 2020,2,February,Supply Chain,9765249
+FY 2020,2,February,Operations,9460057
+FY 2020,3,March,Finance,10095616
+FY 2020,3,March,Sales,8031983
+FY 2020,3,March,Marketing,8971071
+FY 2020,3,March,Supply Chain,9941440
+FY 2020,3,March,Operations,7789990
+FY 2020,4,April,Finance,8568453
+FY 2020,4,April,Sales,8061392
+FY 2020,4,April,Marketing,10319610
+FY 2020,4,April,Supply Chain,7700620
+FY 2020,4,April,Operations,7121752
+FY 2020,5,May,Finance,8622230
+FY 2020,5,May,Sales,6947339
+FY 2020,5,May,Marketing,9716321
+FY 2020,5,May,Supply Chain,9882738
+FY 2020,5,May,Operations,7256337
+FY 2020,6,June,Finance,7320174
+FY 2020,6,June,Sales,6015806
+FY 2020,6,June,Marketing,6828268
+FY 2020,6,June,Supply Chain,5925918
+FY 2020,6,June,Operations,9234715
+FY 2020,7,July,Finance,6465531
+FY 2020,7,July,Sales,5978893
+FY 2020,7,July,Marketing,6388751
+FY 2020,7,July,Supply Chain,7411199
+FY 2020,7,July,Operations,7627968
+FY 2020,8,August,Finance,9913177
+FY 2020,8,August,Sales,6942131
+FY 2020,8,August,Marketing,9045089
+FY 2020,8,August,Supply Chain,9895569
+FY 2020,8,August,Operations,9712162
+FY 2020,9,September,Finance,6555051
+FY 2020,9,September,Sales,6942656
+FY 2020,9,September,Marketing,5861348
+FY 2020,9,September,Supply Chain,7919795
+FY 2020,9,September,Operations,7545340
+FY 2020,10,October,Finance,8217458
+FY 2020,10,October,Sales,7797812
+FY 2020,10,October,Marketing,9131836
+FY 2020,10,October,Supply Chain,8815214
+FY 2020,10,October,Operations,7657295
+FY 2020,11,November,Finance,5781647
+FY 2020,11,November,Sales,7250256
+FY 2020,11,November,Marketing,7156072
+FY 2020,11,November,Supply Chain,6028918
+FY 2020,11,November,Operations,7060326
+FY 2020,12,December,Finance,10339354
+FY 2020,12,December,Sales,9542006
+FY 2020,12,December,Marketing,9447863
+FY 2020,12,December,Supply Chain,9647861
+FY 2020,12,December,Operations,9752245
+FY 2021,1,January,Finance,7161706
+FY 2021,1,January,Sales,7146852
+FY 2021,1,January,Marketing,7214953
+FY 2021,1,January,Supply Chain,9529015
+FY 2021,1,January,Operations,9427102
+FY 2021,2,February,Finance,5681133
+FY 2021,2,February,Sales,10156051
+FY 2021,2,February,Marketing,6970716
+FY 2021,2,February,Supply Chain,8605472
+FY 2021,2,February,Operations,8671591
+FY 2021,3,March,Finance,6144244
+FY 2021,3,March,Sales,8939597
+FY 2021,3,March,Marketing,8161178
+FY 2021,3,March,Supply Chain,8532345
+FY 2021,3,March,Operations,7745241
+FY 2021,4,April,Finance,9460940
+FY 2021,4,April,Sales,8648771
+FY 2021,4,April,Marketing,6526053
+FY 2021,4,April,Supply Chain,9213081
+FY 2021,4,April,Operations,8012299
+FY 2021,5,May,Finance,5778918
+FY 2021,5,May,Sales,7495251
+FY 2021,5,May,Marketing,7528290
+FY 2021,5,May,Supply Chain,9446880
+FY 2021,5,May,Operations,6723040
+FY 2021,6,June,Finance,7772168
+FY 2021,6,June,Sales,5861152
+FY 2021,6,June,Marketing,9830911
+FY 2021,6,June,Supply Chain,7730359
+FY 2021,6,June,Operations,9711648
+FY 2021,7,July,Finance,8850736
+FY 2021,7,July,Sales,7135294
+FY 2021,7,July,Marketing,9020992
+FY 2021,7,July,Supply Chain,7850479
+FY 2021,7,July,Operations,7237926
+FY 2021,8,August,Finance,8806054
+FY 2021,8,August,Sales,9316813
+FY 2021,8,August,Marketing,8905339
+FY 2021,8,August,Supply Chain,7821729
+FY 2021,8,August,Operations,6844680
+FY 2021,9,September,Finance,9489900
+FY 2021,9,September,Sales,7263907
+FY 2021,9,September,Marketing,8542185
+FY 2021,9,September,Supply Chain,6153673
+FY 2021,9,September,Operations,9153335
+FY 2021,10,October,Finance,10173981
+FY 2021,10,October,Sales,7756583
+FY 2021,10,October,Marketing,8232116
+FY 2021,10,October,Supply Chain,9917551
+FY 2021,10,October,Operations,9417431
+FY 2021,11,November,Finance,10218944
+FY 2021,11,November,Sales,6877111
+FY 2021,11,November,Marketing,7855966
+FY 2021,11,November,Supply Chain,7787086
+FY 2021,11,November,Operations,7870888
+FY 2021,12,December,Finance,9983003
+FY 2021,12,December,Sales,6586471
+FY 2021,12,December,Marketing,9895507
+FY 2021,12,December,Supply Chain,8341408
+FY 2021,12,December,Operations,8176844
+FY 2022,1,January,Finance,7599199
+FY 2022,1,January,Sales,8190291
+FY 2022,1,January,Marketing,9455793
+FY 2022,1,January,Supply Chain,7962723
+FY 2022,1,January,Operations,9324908
+FY 2022,2,February,Finance,7599856
+FY 2022,2,February,Sales,6477900
+FY 2022,2,February,Marketing,7590380
+FY 2022,2,February,Supply Chain,9072051
+FY 2022,2,February,Operations,9688408
+FY 2022,3,March,Finance,9303800
+FY 2022,3,March,Sales,7397380
+FY 2022,3,March,Marketing,8379914
+FY 2022,3,March,Supply Chain,7330172
+FY 2022,3,March,Operations,8981586
+FY 2022,4,April,Finance,7694970
+FY 2022,4,April,Sales,9271218
+FY 2022,4,April,Marketing,5661421
+FY 2022,4,April,Supply Chain,7232737
+FY 2022,4,April,Operations,9815467
+FY 2022,5,May,Finance,7153015
+FY 2022,5,May,Sales,7494868
+FY 2022,5,May,Marketing,9395511
+FY 2022,5,May,Supply Chain,6054155
+FY 2022,5,May,Operations,7097084
+FY 2022,6,June,Finance,9317443
+FY 2022,6,June,Sales,10193683
+FY 2022,6,June,Marketing,9357614
+FY 2022,6,June,Supply Chain,6427579
+FY 2022,6,June,Operations,9608092
+FY 2022,7,July,Finance,7883720
+FY 2022,7,July,Sales,9358426
+FY 2022,7,July,Marketing,6748901
+FY 2022,7,July,Supply Chain,7237436
+FY 2022,7,July,Operations,9927858
+FY 2022,8,August,Finance,9971838
+FY 2022,8,August,Sales,6968842
+FY 2022,8,August,Marketing,6001050
+FY 2022,8,August,Supply Chain,10059271
+FY 2022,8,August,Operations,7041939
+FY 2022,9,September,Finance,6176573
+FY 2022,9,September,Sales,7270947
+FY 2022,9,September,Marketing,6953595
+FY 2022,9,September,Supply Chain,5986673
+FY 2022,9,September,Operations,10321948
+FY 2022,10,October,Finance,7010099
+FY 2022,10,October,Sales,6907421
+FY 2022,10,October,Marketing,7615666
+FY 2022,10,October,Supply Chain,7591144
+FY 2022,10,October,Operations,7682372
+FY 2022,11,November,Finance,9951823
+FY 2022,11,November,Sales,5889134
+FY 2022,11,November,Marketing,10119896
+FY 2022,11,November,Supply Chain,8796418
+FY 2022,11,November,Operations,8948051
+FY 2022,12,December,Finance,6357689
+FY 2022,12,December,Sales,7179802
+FY 2022,12,December,Marketing,5850653
+FY 2022,12,December,Supply Chain,8734779
+FY 2022,12,December,Operations,7231275
+FY 2023,1,January,Finance,8246016
+FY 2023,1,January,Sales,9213095
+FY 2023,1,January,Marketing,8256963
+FY 2023,1,January,Supply Chain,5943175
+FY 2023,1,January,Operations,5895872
+FY 2023,2,February,Finance,9762357
+FY 2023,2,February,Sales,6858317
+FY 2023,2,February,Marketing,7338611
+FY 2023,2,February,Supply Chain,6648302
+FY 2023,2,February,Operations,8954628
+FY 2023,3,March,Finance,7453273
+FY 2023,3,March,Sales,7790362
+FY 2023,3,March,Marketing,8837426
+FY 2023,3,March,Supply Chain,8590709
+FY 2023,3,March,Operations,9316851
+FY 2023,4,April,Finance,9194337
+FY 2023,4,April,Sales,7711493
+FY 2023,4,April,Marketing,6520902
+FY 2023,4,April,Supply Chain,6671454
+FY 2023,4,April,Operations,8992343
+FY 2023,5,May,Finance,6854189
+FY 2023,5,May,Sales,7714181
+FY 2023,5,May,Marketing,6117946
+FY 2023,5,May,Supply Chain,6186842
+FY 2023,5,May,Operations,6799748
+FY 2023,6,June,Finance,6007199
+FY 2023,6,June,Sales,6917889
+FY 2023,6,June,Marketing,8327324
+FY 2023,6,June,Supply Chain,9174890
+FY 2023,6,June,Operations,5756972
+FY 2023,7,July,Finance,8482960
+FY 2023,7,July,Sales,7343294
+FY 2023,7,July,Marketing,6687878
+FY 2023,7,July,Supply Chain,5752917
+FY 2023,7,July,Operations,7164498
+FY 2023,8,August,Finance,9390455
+FY 2023,8,August,Sales,8144109
+FY 2023,8,August,Marketing,9323093
+FY 2023,8,August,Supply Chain,7579307
+FY 2023,8,August,Operations,9647620
+FY 2023,9,September,Finance,6321701
+FY 2023,9,September,Sales,9536161
+FY 2023,9,September,Marketing,7884801
+FY 2023,9,September,Supply Chain,9180817
+FY 2023,9,September,Operations,6754026
+FY 2023,10,October,Finance,7933553
+FY 2023,10,October,Sales,9117402
+FY 2023,10,October,Marketing,7922025
+FY 2023,10,October,Supply Chain,7798890
+FY 2023,10,October,Operations,9491173
+FY 2023,11,November,Finance,6379275
+FY 2023,11,November,Sales,7880488
+FY 2023,11,November,Marketing,9547397
+FY 2023,11,November,Supply Chain,9657216
+FY 2023,11,November,Operations,6167712
+FY 2023,12,December,Finance,9680733
+FY 2023,12,December,Sales,5658336
+FY 2023,12,December,Marketing,9706682
+FY 2023,12,December,Supply Chain,6870887
+FY 2023,12,December,Operations,8375209
